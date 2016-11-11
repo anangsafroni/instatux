@@ -1,0 +1,6 @@
+menu/ignsdk-instagram.desktop /usr/share/applications/
+menu/ignsdk-instatux.desktop /usr/share/applications/
+app.spec /opt/ignsdk/instagram.ign/
+index.html /opt/ignsdk/instagram.ign/
+ignsdk.json /opt/ignsdk/instagram.ign/
+icons/ /opt/ignsdk/instagram.ign/

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=InstaTux
+Exec=/usr/bin/ignsdk -p /opt/ignsdk/instatux.ign
+Icon=/opt/ignsdk/instatux.ign/icons/app.png
+Terminal=false
+Type=Application
+Categories=Network
